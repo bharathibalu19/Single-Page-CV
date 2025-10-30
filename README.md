@@ -14,4 +14,5 @@ This project is a single-page resume website that showcases personal details, sk
 1. Clone the repository  
    ```bash
    git clone https://github.com/bharathibalu19/Single-Page-CV.git
+   https://roadmap.sh/projects/single-page-cv
    
